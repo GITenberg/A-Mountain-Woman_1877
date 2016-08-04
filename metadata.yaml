@@ -1,0 +1,29 @@
+_repo: A-Mountain-Woman_1877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Peattie, Elia Wilkinson
+    alias: Wilkinson, Elia
+    birthdate: 1862
+    deathdate: 1935
+    gutenberg_agent_id: '731'
+    url: http://www.gutenberg.org/2009/agents/731
+    wikipedia: http://en.wikipedia.org/wiki/Elia_W._Peattie
+description: ''
+gutenberg_issued: '1999-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: A mountain woman -- Jim Lancy's Waterloo -- The three Johns -- A
+  resuscitation -- Two pioneers -- Up the gulch -- A Michigan man -- A lady of yesterday.
+title: A Mountain Woman
+url: http://www.gutenberg.org/ebooks/1877
